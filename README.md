@@ -1,2 +1,2 @@
-# kakao-clone-ksc
- nomad cord kakao clone-ksc
+http://zjh1687.github.io/kakao-clone-ksc
+
